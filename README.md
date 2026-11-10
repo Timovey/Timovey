@@ -3,46 +3,46 @@
   <img src="./icons/gen.gif" width="600" height="300"/>
 </div>
 
-- 🖥️ закончил IT специальность в УлГТУ
-- 🐒 работаю  fullstack разработчиком на Vue3 + express
-- 🪣 перед этим работал на .NET 6-7
+- 🧭 **Lead Fullstack-разработчик** (Node.js / TypeScript / Vue.js), 4+ года коммерческой разработки
+- 🏢 Сейчас — Fullstack-разработчик / Feature Lead в **WONE IT**: микросервисная система автоматизации ЖКХ (200+ внутренних и 200 000+ внешних пользователей)
+- 🛠️ Веду модули в полном цикле — от архитектуры и общения с заказчиком до деплоя; делаю code review, распределяю задачи и менторю разработчиков
+- 🎓 Закончил УлГТУ; магистр в области ИИ и предиктивной аналитики
+- 🤖 Активно использую AI-инструменты (Claude Code, Cursor) для разработки, рефакторинга и тестов
+- 📍 Москва
 
 <div align="center">
   <img src="./icons/mem.jpg" width="600" height="300"/>
 </div>
 
+## Опыт
+
+| Период | Компания | Роль | Основной стек |
+| --- | --- | --- | --- |
+| 03.2025 — н. в. | WONE IT | Fullstack-разработчик / Feature Lead | TypeScript, Node.js, Moleculer, Dgraph, Redis, Vue.js |
+| 03.2023 — 02.2025 | [Шевиант](https://sheviant.team/) | Ведущий Web-разработчик / Team Lead | Node.js, NestJS, Express, Vue.js, Nuxt, PostgreSQL, MySQL, MongoDB |
+| 02.2022 — 03.2023 | Экоинформ | Fullstack-программист | C#, .NET, MS SQL, Nuxt |
+
+## Проекты
+
+- 🪪 **[Цифровая визитка](https://timovey.bir.ru)** — GraphQL API с профилем, опытом и проектами; на сайте открывается GraphiQL, можно сделать запрос самому. NestJS, Apollo GraphQL, Prisma, PostgreSQL, S3, Docker, Caddy
+- 🧩 **Dophamint** — платформа квестов с конструктором развилок и прохождением в реальном времени. Модульный монолит на .NET 10, SignalR, Keycloak, OpenAPI-контракт с генерацией TS- и Dart-клиентов (код закрыт)
+- 🛍️ **Шелковица** — интернет-магазин для заказчика: NestJS + TypeORM + PostgreSQL, витрина на Nuxt 3 (SSR/ISR), CI на каждый PR и деплой на свой сервер (код закрыт)
+- ♻️ **[Green City](https://github.com/Timovey/green-city)** — система контроля вывоза ТБО: микросервисы на ASP.NET, EF Core, MS SQL, Hangfire, клиент на Nuxt + Vuetify
+
 ## Стек технологий
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://v3.ru.vuejs.org/logo.png" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" title="Vuex" alt="Vuex" width="40" height="40"/>&nbsp;
-  <img src="https://seeklogo.com/images/N/nuxt-logo-1CCC5F38FD-seeklogo.com.png" title="Nuxt" alt="Nuxt" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp"  alt="Csharp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-plain.svg" title=".Net"  alt=".Net" width="40" height="40"/>&nbsp;
-  <img src="https://img.stackshare.io/service/20926/default_f8fb986d889eb12dfac827180a7901396f6d3b82.png" title="Refit"  alt="Refit" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" alt="Bash" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" title="Vuetify" alt="Vuetify" width="40" height="40"/>
-  <img src="https://w7.pngwing.com/pngs/1009/249/png-transparent-logo-sass-logos-and-brands-icon-thumbnail.png" title="Scss" alt="Scss" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,cs,nodejs,nestjs,express,dotnet,graphql,prisma,rabbitmq,vue,nuxtjs,vuetify,vite,sass,postgres,mysql,mongodb,redis,docker,nginx,linux,git,githubactions,jest,vitest,postman,selenium&perline=10" alt="TypeScript, JavaScript, C#, Node.js, NestJS, Express, .NET, GraphQL, Prisma, RabbitMQ, Vue.js, Nuxt, Vuetify, Vite, Sass, PostgreSQL, MySQL, MongoDB, Redis, Docker, Nginx, Linux, Git, GitHub Actions, Jest, Vitest, Postman, Selenium"/>
 </div>
+
+А ещё: Moleculer, Dgraph, Socket.IO, SignalR, Keycloak, Hangfire, Entity Framework Core, Pinia, S3, Bruno, OpenAPI.
 
 ## Статистика
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Timovey&theme=highcontrast&locale=ru)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Timovey&theme=highcontrast&locale=ru)](https://git.io/streak-stats)
 
-### Языки
+## Контакты
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timovey)](https://github.com/anuraghazra/github-readme-stats)
-
-### Достижения
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Timovey&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Telegram](https://img.shields.io/badge/Telegram-@timovey73-26A5E4?logo=telegram&logoColor=white)](https://t.me/timovey73)
+[![Email](https://img.shields.io/badge/Email-kochetkovtimofey73@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:kochetkovtimofey73@gmail.com)
+[![Визитка](https://img.shields.io/badge/%D0%92%D0%B8%D0%B7%D0%B8%D1%82%D0%BA%D0%B0-timovey.bir.ru-E10098?logo=graphql&logoColor=white)](https://timovey.bir.ru)
