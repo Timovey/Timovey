@@ -24,8 +24,8 @@
 
 ## Проекты
 
-- 🪪 **[Цифровая визитка](https://timovey.bir.ru)** — GraphQL API с профилем, опытом и проектами; на сайте открывается GraphiQL, можно сделать запрос самому. NestJS, Apollo GraphQL, Prisma, PostgreSQL, S3, Docker, Caddy
-- 🧩 **Dophamint** — платформа квестов с конструктором развилок и прохождением в реальном времени. Модульный монолит на .NET 10, SignalR, Keycloak, OpenAPI-контракт с генерацией TS- и Dart-клиентов (код закрыт)
+- 🪪 **[Цифровая визитка](https://timovey.bir.ru)** — GraphQL API с профилем, опытом и проектами; на сайте открывается GraphiQL, можно сделать запрос самому. NestJS, Apollo GraphQL, Prisma, PostgreSQL, S3, Docker, Caddy · [код](https://github.com/Timovey/digital-business-card)
+- 🧩 **Dophamint** — платформа квестов с конструктором развилок и прохождением в реальном времени. Модульный монолит на .NET 10, SignalR, Keycloak, OpenAPI-контракт с генерацией TS- и Dart-клиентов (код закрыт; предыдущая версия на микросервисах — [Quests](https://github.com/Timovey/Quests))
 - 🛍️ **Шелковица** — интернет-магазин для заказчика: NestJS + TypeORM + PostgreSQL, витрина на Nuxt 3 (SSR/ISR), CI на каждый PR и деплой на свой сервер (код закрыт)
 - ♻️ **[Green City](https://github.com/Timovey/green-city)** — система контроля вывоза ТБО: микросервисы на ASP.NET, EF Core, MS SQL, Hangfire, клиент на Nuxt + Vuetify
 
